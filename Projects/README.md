@@ -14,3 +14,7 @@ Michael Jordan：与其从输入输出的角度思考问题，我更多希望从
 在这个过程中，我，作为一个食客很开心：因为我拿到了折扣，吃到了合口味的食物，并且与餐厅建立了好的联系。餐厅老板也很开心：因为他们得以充分利用餐厅的资源，并且招徕到了喜欢这家餐厅的客户。这个过程中并不存在一个复杂的、超级智能的中枢系统，而只有数以百万计的实体，每天进行巨量的数据交换和分布式的决策。饮食、娱乐、交通……城市里的任何服务都能以这种形式进行。
 =============================================================================================================================
 
+(2018.11.05)
+Python Numpy structure Basic NN architecture --> https://github.com/SkalskiP/ILearnDeepLearning.py
+可作为 DECOG 的前置项目，完成基础模型搭建和 optimization implementation
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750805&idx=2&sn=d8cf416c4f16f5f0adad0a9b60dfd137&chksm=871afb2bb06d723d6d7821a2fef163d8e4ad151c5761224ae3494fe33384deaacaea7cbbfeef&scene=0&pass_ticket=3qH2%2FUpjT4ls%2B1MCsehIxj%2BUst2InSYGzOfbwOd7y3w%3D#rd

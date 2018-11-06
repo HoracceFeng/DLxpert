@@ -17,3 +17,8 @@ Michael Jordan：不确定性。机器学习本质上就是统计学与计算机
 传统地看，统计学里不确定性无处不在，其核心就是清楚错误的存在、明确来源并进行管理。而传统的计算机科学是不存在不确定性的。机器学习研究者开始将不确定性的思想引入计算机科学学科，算法有了训练与测试阶段，人们开始考量随机性对两个阶段的结果产生哪些影响。但是，从「文化」的角度上来看，整个领域仍然缺乏对不确定性的关注。
 =========================================================================================================================================================================
 
+(2018.11.05)
+@ 模型剪枝后的权重是否“重要” --> "Rethinking the Value of Network Pruning"
+- https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750447&idx=1&sn=ecfb0c9e0605c3005fe90e6f0907c790&chksm=871af991b06d7087d4ea5e96247ac07a880e2259e9628bfcc5f843c2106130d5c79018e8a065&scene=0&pass_ticket=XB4dtiMooPFwyLcJxoW66lLAB%2B5wIr5a5UsJUb9BcIs%3D#rd
+
+- https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029202&idx=3&sn=c9d32a10a229ffa9e4624d51026bf28b&chksm=f121b5e3c6563cf588930c686da86ec4b64f88670ae63fbc56ed63481499433af7efe3796f09&scene=0&pass_ticket=XB4dtiMooPFwyLcJxoW66lLAB%2B5wIr5a5UsJUb9BcIs%3D#rd
